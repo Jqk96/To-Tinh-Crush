@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Ơ kìa Ngọc!',
-    introDesc: 'A tưởng công chúa thì chỉ ngủ trong rừng thôi, 
-    Sao bạn lại ở đây thế này',
+    introDesc: 'A tưởng công chúa thì chỉ ngủ trong rừng thôi, Sao bạn lại ở đây thế này',
     btnIntro: 'Haha',
     title: 'Nếu bạn là ngôi sao sáng nhất trên bầu trời có trăm nghìn vì tinh tú 😙',
     desc: 'Thì A chỉ muốn được làm thằng nhóc chăn cừu ngồi trên mỏm đá nhỏ của địa cầu ngắm nhìn bầu trời ấy mà si tình thổi tiêu',
